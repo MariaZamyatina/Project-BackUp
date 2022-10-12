@@ -1,7 +1,7 @@
 ## курсовой проект «Резервное копирование» 
 
 ______
-В [проекте]() реализована возможность резервного копирования
+В [проекте](https://github.com/MariaZamyatina/Project-BackUp/blob/main/main.py) реализована возможность резервного копирования
 фотографий с профиля(аватарок) пользователя vk в 
 облачное хранилище Яндекс.Диск.
 
@@ -13,9 +13,9 @@ ______
 размера(ширина/высота в пикселях)
 
 Информацию по фотографиям сохраняется 
-в [result.json]().
+в [result.json](https://github.com/MariaZamyatina/Project-BackUp/blob/main/result.json).
 
-Зависимости указаны в [requirements.txt]()
+Зависимости указаны в [requirements.txt](https://github.com/MariaZamyatina/Project-BackUp/blob/main/requirements.txt)
 
 Для реализации кода потребуется указать токен VK, токен 
 YahdexDisk, id пользователя VK.
